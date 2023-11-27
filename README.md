@@ -1,3 +1,2 @@
 # MTH4000
-Repository for course MTH4000 at Queen Mary University of London.
-Assessment 3 submission.
+Repository to test code related to the MTH4000 Programming in Python 1 module at Queen Mary University of London.
